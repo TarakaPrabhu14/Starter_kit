@@ -144,7 +144,7 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 
 4. Open Terminal2 / Another Command promt
 
-5. Start testrpc by command ->  testrpc -m "seedwords of Metamsk"
+5. Start testrpc by command ->  testrpc -m "seedwords of Metamask"
 
 6. truffle migrate //migrate smart contract to running blockchain 
 
